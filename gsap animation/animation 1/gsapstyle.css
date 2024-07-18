@@ -1,0 +1,33 @@
+
+   
+   svg {
+    width: 100%;
+    height: 100%;
+    visibility: hidden;
+    
+   }
+   
+   #allBoxes rect:nth-child(3) {
+       fill: #F2F230;
+   }
+   #allBoxes rect:nth-child(4) {
+       fill: #C2F261;
+   }
+   #allBoxes rect:nth-child(5) {
+       fill: #91F291;
+   }
+   #allBoxes rect:nth-child(6) {
+       fill: #61F2C2;
+   }
+   #allBoxes rect:nth-child(7) {
+       fill: #30F2F2;
+   }
+   
+   #allBoxes rect:nth-child(2) {
+       fill: #F4CC2D;
+   }
+   #allBoxes rect:nth-child(1) {
+       fill: #FAA027;
+   }
+   
+   
